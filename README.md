@@ -2,7 +2,7 @@
 
 ## Schtuff
 - [4tom2](https://github.com/4tom2)
-- [John Mastodon](<a href='https://mastodon.online/@tom42' rel="me"/>)
+- <a href='https://mastodon.online/@tom42' rel="me">John Mastodon</a>
 
 
 <!---
